@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Simba",
+    "picture": "images/american_shorthair.jpg",
+    "age": 3,
+    "breed": "American Shorthair",
+    "location": "Buriram,Thailand"
+  },
+  {
+    "id": 1,
+    "name": "Leo",
+    "picture": "images/bengal.jpg",
+    "age": 1,
+    "breed": "Bengal",
+    "location": "Chonburi,Thailand"
+  },
+  {
+    "id": 2,
+    "name": "Milo",
+    "picture": "images/british_shorthair.jpg",
+    "age": 2,
+    "breed": "British Shorthair",
+    "location": "Chiang Rai,Thailand"
+  },
+  {
+    "id": 3,
+    "name": "Simon",
+    "picture": "images/exotic_shorthair.jpg",
+    "age": 3,
+    "breed": "Exotic Shorthair",
+    "location": "Khon Kaen,Thailand"
+  },
+  {
+    "id": 4,
+    "name": "Salmon",
+    "picture": "images/khao_manee.jpg",
+    "age": 2,
+    "breed": "Khao Manee",
+    "location": "Phayao,Thailand"
+  },
+  {
+    "id": 5,
+    "name": "Snow",
+    "picture": "images/main_coon.jpg",
+    "age": 3,
+    "breed": "Main Coon",
+    "location": "Loei,Thailand"
+  },
+  {
+    "id": 6,
+    "name": "Franky",
+    "picture": "images/persian.jpg",
+    "age": 1,
+    "breed": "Persian",
+    "location": "Lampang,Thailand"
+  },
+  {
+    "id": 7,
+    "name": "Anya",
+    "picture": "images/ragdoll.jpg",
+    "age": 3,
+    "breed": "Ragdoll",
+    "location": "Trang,Thailand"
+  },
+  {
+    "id": 8,
+    "name": "Almond",
+    "picture": "images/scottish_fold.jpg",
+    "age": 2,
+    "breed": "Scottish Fold",
+    "location": "Phetchaburi,Thailand"
+  },
+  {
+    "id": 9,
+    "name": "Jacob",
+    "picture": "images/siamese.jpg",
+    "age": 3,
+    "breed": "Siamese",
+    "location": "Lopburi,Thailand"
+  },
+  {
+    "id": 10,
+    "name": "Japan",
+    "picture": "images/silver_blue.jpg",
+    "age": 2,
+    "breed": "Silver Blue",
+    "location": "Satun,Thailand"
+  },
+  {
+    "id": 11,
+    "name": "Solomon",
+    "picture": "images/sphinx.jpg",
+    "age": 3,
+    "breed": "Sphinx",
+    "location": "Udon Thani,Thailand"
+  },
+  {
+    "id": 12,
+    "name": "Dolly",
+    "picture": "images/siamese.jpg",
+    "age": 3,
+    "breed": "Siamese",
+    "location": "Pattani,Thailand"
+  },
+  {
+    "id": 13,
+    "name": "Oreo",
+    "picture": "images/american_shorthair.jpg",
+    "age": 4,
+    "breed": "American_Shorthair",
+    "location": "Phichit,Thailand"
+  },
+  {
+    "id": 14,
+    "name": "Tuna",
+    "picture": "images/bengal.jpg",
+    "age": 2,
+    "breed": "Bengal",
+    "location": "Songkhla,Thailand"
+  },
+  {
+    "id": 15,
+    "name": "Dominic",
+    "picture": "images/british_shorthair.jpg",
+    "age": 2,
+    "breed": "British_Shorthair",
+    "location": "Phatthalung,Thailand"
+  }
+]
